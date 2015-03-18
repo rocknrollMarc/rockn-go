@@ -1,4 +1,4 @@
-baseurl = "http://rockn-go.appspot.com/"
+baseurl = "http://rockn-go.herokuapp.com/"
 languageCode = "de-de"
 title = "Rockn`go"
 theme = "hugoscroll"
